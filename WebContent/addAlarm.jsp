@@ -11,7 +11,7 @@
     
     <link rel="stylesheet" type="text/css" href="css/vendor.css">
 
-    <!-- Link Swiper's CSS -->
+ 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
 
     <!--Bootstrap ================================================== -->
@@ -102,7 +102,7 @@ button:hover {
                             <a class="nav-link text-uppercase  px-3" href="SuiviSymptomForm.jsp">Suivi</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase  px-3" href="blogServlet?action=view">Communauté</a>
+                            <a class="nav-link text-uppercase  px-3" href="blogServlet?action=view">CommunautÃ©</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-uppercase  px-3" href="calendrier.html">Calendrier</a>
@@ -197,7 +197,7 @@ button:hover {
             <div class="container">
                 <footer class="d-flex align-items-center pt-4 text-center">
                     <div class="col-md-6 mx-auto" style="margin-top: 100px;">
-                        <p>© 2024 PainCare - All rights reserved</p>
+                        <p>Â© 2024 PainCare - All rights reserved</p>
                     </div>
         
                 </footer>
